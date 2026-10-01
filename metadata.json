@@ -1,0 +1,6 @@
+{
+  "name": "SpellBee Junior: Timed Spelling & Word Champion",
+  "description": "Interactive spelling and vocabulary bee game for children with timed challenge rounds, speech pronunciation, honey streak rewards, and a comprehensive learning progress dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
